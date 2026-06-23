@@ -8,10 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
-* 🚀 Building responsive applications and modern web solutions.
-* ⚡ Constantly learning new technologies and focusing on optimization.
-* 🎯 Always open to new challenges in full-stack development.
+### 👨‍💻Contact = mustafaselvitopu2652@gmail.com
 
 ### 🛠️ Languages & Tools
 <table>
