@@ -46,7 +46,7 @@
 
 
 ### 🔗 Let's Connect
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />][(https://www.linkedin.com/in/mustafaselvitopu/))
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/mustafaselvitopu/)
 
 <!--
 **mustarawnN/mustarawnN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
